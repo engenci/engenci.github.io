@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://engenci.github.io/sitemap.html.gz
+Sitemap: https://engenci.github.io/app/sitemap.html.gz
+Sitemap: https://engenci.github.io/assets/sitemap.html.gz
+Sitemap: https://engenci.github.io/css/sitemap.html.gz
+Sitemap: https://engenci.github.io/data/sitemap.html.gz
+Sitemap: https://engenci.github.io/includes/sitemap.html.gz
+Sitemap: https://engenci.github.io/item/sitemap.html.gz
+Sitemap: https://engenci.github.io/src/sitemap.html.gz
